@@ -10,8 +10,8 @@
 (function () {
   'use strict';
 
-  const oldKT = '160906-2430';
-  const newKT = '160904-2430';
+  const oldKT = '260607-2940';
+  const newKT = '260605-2940';
   const oldKTplain = oldKT.replace('-', '');
   const newKTplain = newKT.replace('-', '');
 
